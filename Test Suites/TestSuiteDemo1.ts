@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>1a5f2d71-be6f-4b90-ad51-d413f984d247</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/ManualMode</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -26,7 +26,7 @@
    <testCaseLink>
       <guid>fd8b6785-70a8-4739-8899-ebc886e49bf5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Demo/ScriptMode</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
